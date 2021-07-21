@@ -1,5 +1,6 @@
-![small-white](https://user-images.githubusercontent.com/79100490/126556513-412ef07d-d8a4-41fe-b213-99e68baa99bb.PNG)
-
+<p align="center">
+  <img width="460" height="300" src=url("https://user-images.githubusercontent.com/79100490/126556513-412ef07d-d8a4-41fe-b213-99e68baa99bb.PNG")>
+</p>
 
 
 ## Description
