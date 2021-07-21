@@ -39,7 +39,7 @@ https://tetris.fandom.com/wiki/Tetris_Guideline
 
 Feel free to add your contributions, and add special features to this small game.
 
-Contributers:
+Contributors:
 - Daniel Malky
 
 
