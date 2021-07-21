@@ -6,7 +6,9 @@
 ## Description
 
 This is a console application, implemeted entirely in C++ and OOP - of the old school game of tetris.
+
 You can play alone, or with a buddy. Guaranteed fun for everyone.
+
 Enjoy!
 
 
@@ -17,6 +19,7 @@ Playing against a computer AI comes in 4 game modes:
 - GOOD       (Medium)
 - BEST       (Hard)
 - GOD MODE   (Impossible)
+
 Try and make two computers fight each other....
 
 
@@ -35,6 +38,7 @@ https://tetris.fandom.com/wiki/Tetris_Guideline
 ## Contribution
 
 Feel free to add your contributions, and add special features to this small game.
+
 Contributers:
 - Daniel Malky
 
