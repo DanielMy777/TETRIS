@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a console application, implemeted entirely in C++ and OOP - of the old school game of tetris.
+This is a console application, implemeted entirely in C++ (using OOP concepts) - of the old school game of tetris.
 
 You can play alone, or with a buddy. Guaranteed fun for everyone.
 
